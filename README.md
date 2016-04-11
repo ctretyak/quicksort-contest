@@ -11,15 +11,15 @@
 Выполнение задания
 ------------------
 
-Для выполнения задания необходимо написать реализацию метода sort класса org.fistashki.quicksort.algorithms.yours.QuickSort. Пошаговый пример выполнения ниже.
+Для выполнения задания необходимо написать реализацию метода sort класса org.intelidz.quicksort.algorithms.yours.QuickSort. Пошаговый пример выполнения ниже.
  1. Скачиваем zip-архив репозитория и разархивируем его.
  2. Открываем разархивированную папку как проект в одной из IDE, позволяющей редактировать  Java  код, например Netbeans, Eclipse, Intellij Idea.
- 3. В пакете org.fistashki.quicksort.algorithms.yours находим класс QuickSort, который реализует интерфейс Sorting. В этом классе в методе sort необходимо написать ваш код, который будет параллельно сортировать массив unsortedArray.
- 4. После написания кода необходимо запустить проект. В консоль выведется время выполнения программы без параллелизации (класс org.fistashki.quicksort.algorithms.origin.QuickSortWithoutParallelization) и время выполнения вашего кода org.fistashki.quicksort.algorithms.yours.QuickSort. Например:
+ 3. В пакете org.intelidz.quicksort.algorithms.yours находим класс QuickSort, который реализует интерфейс Sorting. В этом классе в методе sort необходимо написать ваш код, который будет параллельно сортировать массив unsortedArray.
+ 4. После написания кода необходимо запустить проект. В консоль выведется время выполнения программы без параллелизации (класс org.intelidz.quicksort.algorithms.origin.QuickSortWithoutParallelization) и время выполнения вашего кода org.intelidz.quicksort.algorithms.yours.QuickSort. Например:
 
-> RESULT: org.fistashki.quicksort.algorithms.origin.QuickSortWithoutParallelization: 5109 milliseconds 
+> RESULT: org.intelidz.quicksort.algorithms.origin.QuickSortWithoutParallelization: 5109 milliseconds 
 
-> RESULT: org.fistashki.quicksort.algorithms.yours.QuickSort:  1519 milliseconds 
+> RESULT: org.intelidz.quicksort.algorithms.yours.QuickSort:  1519 milliseconds 
 
 Если вы уверены, что написали рабочий и быстрый код, запакуйте все файлы в zip архив и отправьте его нам.
 
