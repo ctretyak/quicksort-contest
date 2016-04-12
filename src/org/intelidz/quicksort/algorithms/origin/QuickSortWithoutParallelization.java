@@ -1,6 +1,6 @@
-package org.fistashki.quicksort.algorithms.origin;
+package org.intelidz.quicksort.algorithms.origin;
 
-import org.fistashki.quicksort.Sorting;
+import org.intelidz.quicksort.Sorting;
 
 import java.util.Random;
 

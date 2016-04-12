@@ -1,6 +1,6 @@
-package org.fistashki.quicksort.algorithms.yours;
+package org.intelidz.quicksort.algorithms.yours;
 
-import org.fistashki.quicksort.Sorting;
+import org.intelidz.quicksort.Sorting;
 
 /**
  * Created by ctretyak on 08.04.2016.

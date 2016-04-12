@@ -1,4 +1,4 @@
-package org.fistashki.quicksort;
+package org.intelidz.quicksort;
 
 /**
  * Created by ctretyak on 08.04.2016.

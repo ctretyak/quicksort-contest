@@ -1,7 +1,7 @@
-package org.fistashki.quicksort;
+package org.intelidz.quicksort;
 
-import org.fistashki.quicksort.algorithms.origin.QuickSortWithoutParallelization;
-import org.fistashki.quicksort.algorithms.yours.QuickSort;
+import org.intelidz.quicksort.algorithms.origin.QuickSortWithoutParallelization;
+import org.intelidz.quicksort.algorithms.yours.QuickSort;
 
 import java.util.Arrays;
 import java.util.Random;
